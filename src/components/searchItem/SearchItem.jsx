@@ -1,3 +1,4 @@
+
 import './searchItem.css';
 
 const SearchItem = () => {
@@ -22,7 +23,7 @@ const SearchItem = () => {
                 <div className="siDetialText">
                     <span className="siPrice">$123</span>
                     <span className="siTaxOp">Includes taxes and fees</span>
-                    <button className="siCheckBtn">See ava ilability</button>
+                    <button className="siCheckBtn">See availability</button>
                 </div>
             </div>
         </div>
